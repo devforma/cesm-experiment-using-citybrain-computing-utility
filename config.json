@@ -1,0 +1,29 @@
+{
+
+        "var_col_name": ["prect","trefhtmx"],
+        "drop_nan": "FALSE",
+        "select_positive": "TRUE",
+        "lat_col_name": "lat",
+        "lon_col_name": "lon",
+        "time_col_name": "time",
+        "start_year": "2006",
+        "end_year": "2055",
+        "start_month": "1",
+        "end_month": "12",
+        "SELECT_ALL_TIME": "FALSE",
+
+        "set_quantile": "NULL",
+        "quant": "0.98",
+
+
+        "duration_threshold": "3",
+        "member_id":"NULL",
+
+        "output_file_name" : "intermediate_output.txt",
+
+        "SQL_path" : "./sql/cesm1_odps.sql",
+
+        "tablename": "cesm_trefhtmx",
+        "output_table": "cesm_ass1_0730"
+
+}
