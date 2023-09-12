@@ -1,4 +1,4 @@
-# Urban Climate Explorer (ODPS)
+# Urban Climate Explorer
 Currently, we provide some scrpits to calculate the cliamte extremes. Here are some explanatios of the scripts.
 ## 1 极端气候
 - **极端气候定义**
